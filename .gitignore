@@ -1,0 +1,30 @@
+# IDEA
+.idea
+*iml
+.DS_Store
+
+# gradle
+.gradle/
+build/
+
+# log
+logs/
+consensus-logs/
+
+out/
+gradle/
+
+# gossip
+pernodedata.*
+ringstate.*
+shareddata.*
+
+src/main/java/META-INF/
+src/main/resources/META-INF/
+/bin/
+
+# Eclipse IDE specific files and folders
+/.project
+/.classpath
+/.settings/
+/.apt_generated/
